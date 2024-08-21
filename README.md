@@ -16,7 +16,7 @@ Los datos son agregados utilizando interpolación de Vue.js
 
 - **HTML5**: Para la estructura del sitio web.
 - **CSS**: Para el diseño y la presentación del sitio web.
-- **VUE.Js**: Para la funcionalidad y uso da información.
+- **Vue.js**: Para la funcionalidad y uso da información.
 
 ## Instalación
 
@@ -32,11 +32,11 @@ Los datos son agregados utilizando interpolación de Vue.js
     ```bash
     npm install
     ```
-4. **Inicia el servidos**
+4. **Inicia el servidor**
     ```bash
     npm run dev
     ```
-5. Abre el enlace entregado en tu navegador.
+5. Abre el enlace 'Local' en tu navegador.
    
 ## Autores
 
